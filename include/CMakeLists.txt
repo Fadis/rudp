@@ -1,0 +1,3 @@
+INSTALL( DIRECTORY rudp/
+  DESTINATION include/rudp/
+  FILES_MATCHING PATTERN "*.hpp" )
